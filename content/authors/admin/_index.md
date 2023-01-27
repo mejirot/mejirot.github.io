@@ -4,13 +4,13 @@ title: mejirot
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: ロール
+role: 
 
 ## Organizations/Affiliations to show in About widget
 #organizations:
@@ -28,30 +28,39 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://vocalodon.net/@mejirot
+    label: Follow me on Mastodon
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@mejirot
+    label: 最近のオリジナル曲です
+    display:
+      header: true
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.nicovideo.jp/user/14897875/mylist/16850723
+    label: 昔のオリジナル曲です
+    display:
+      header: true
+  - icon: twitter 
+    icon_pack: fab
+    link: https://twitter.com/music_t
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/mejirot_22/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/mejirot
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -60,5 +69,5 @@ email: ''
 highlight_name: true
 ---
 
-(作成途中)自己紹介文を書く(改行無し)
+まれに曲をつくる。昔はSONAR、今はCubase。最近のブームは料理。
 {style="text-align: justify;"}
