@@ -43,6 +43,10 @@ sections:
       text: |-
         {{<youtube YxfOPLrz3QI>}}
         {{<youtube Lue8Y4oOgz8>}}
+        {{<niconico sm11669430>}}
+        {{<niconico sm23159618>}}
+        {{<niconico sm15473985>}}
+        {{<niconico sm20097140>}}
     design:
       columns: '1'
       sections:
