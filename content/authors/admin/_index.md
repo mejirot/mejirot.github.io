@@ -37,13 +37,13 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@mejirot
-    label: 最近のオリジナル曲です
+    label: 最近のオリジナル曲
     display:
       header: true
-  - icon: youtube
-    icon_pack: fab
+  - icon: clapperboard
+    icon_pack: fas
     link: https://www.nicovideo.jp/user/14897875/mylist/16850723
-    label: 昔のオリジナル曲です
+    label: 昔のオリジナル曲
     display:
       header: true
   - icon: twitter 
