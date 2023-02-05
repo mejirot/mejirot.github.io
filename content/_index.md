@@ -37,6 +37,7 @@ sections:
           icon: dice
           icon_pack: fas
   - block: markdown
+    id : music
     content:
       title: 曲
       subtitle: ''
