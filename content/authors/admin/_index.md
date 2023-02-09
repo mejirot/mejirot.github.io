@@ -28,10 +28,10 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: mastodon
-    icon_pack: fab
-    link: https://vocalodon.net/@mejirot
-    label: Follow me on Mastodon
+  - icon: user-plus
+    icon_pack: fas
+    link: https://misskey.io/@mejirot
+    label: Follow me on Misskey
     display:
       header: true
   - icon: youtube
@@ -49,6 +49,12 @@ social:
   - icon: twitter 
     icon_pack: fab
     link: https://twitter.com/music_t
+  - icon: mastodon
+    icon_pack: fab
+    link: https://vocalodon.net/@mejirot
+    label: Follow me on Mastodon
+    display:
+      header: true
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/mejirot_22/
