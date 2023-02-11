@@ -10,9 +10,9 @@ main:
   - name: 曲
     url: '#music'
     weight: 20
-#  - name: Posts
-#    url: '#posts'
-#    weight: 20
+  - name: 料理
+    url: '#posts'
+    weight: 30
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30
