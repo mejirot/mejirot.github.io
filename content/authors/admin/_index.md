@@ -30,7 +30,7 @@ interests:
 social:
   - icon: user-plus
     icon_pack: fas
-    link: https://misskey.io/@mejirot
+    link: https://misskey.gamelore.fun/@mejirot
     label: Follow me on Misskey
     display:
       header: true
